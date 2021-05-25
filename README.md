@@ -13,7 +13,7 @@
 - 🏢 I'm a freelancer
 - ⚙️ I use daily: `.jsx`, `.js`, `.html`, `.css`, `.scss`.
 - 🌍 I'm mostly active within the **Javascript Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
+<!-- - 💅 Designed: [] etc… -->
 - 🌱 Learning all about **Node.js**
 - 💬 Ping me about **design**, **react**, **development**
 - 📫 Reach me: [twitter.com/dibyadarshi_das](https://twitter.com/dibyadarshi_das)
