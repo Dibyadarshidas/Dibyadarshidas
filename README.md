@@ -5,8 +5,8 @@
 ##### NOW
 
 - ✨ Crafted last [Umpteens](https://www.umpteens.com) website;
-- 🇵🇹 Planing the "Tuga-Co-Op";
-- 🍑 What about this?
+- 🇵🇹 Planing to learn Next.js;
+- 🍑 Got an idea? I am Game.
 
 ##### BIO
 
