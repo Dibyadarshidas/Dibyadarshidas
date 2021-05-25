@@ -5,7 +5,7 @@
 ##### NOW
 
 - ✨ Crafted last [Umpteens](https://www.umpteens.com) website;
-- 🇵🇹 Planing to learn Next.js;
+- 🇵🇹 Planning to learn Next.js;
 - 🍑 Got an idea? I am Game.
 
 ##### BIO
