@@ -12,7 +12,7 @@
 
 - 🏢 I'm a freelancer
 - ⚙️ I use daily: `.jsx`, `.js`, `.html`, `.css`, `.scss`
-- 🌍 I'm mostly active within the **Javascript Community**
+- 🌍 I'm mostly follow the **Javascript Community**
 - 🌱 Learning all about **Node.js**
 - 💬 Ping me about **design**, **react**, **development**
 - 📫 Reach me: [twitter.com/dibyadarshi_das](https://twitter.com/dibyadarshi_das)
