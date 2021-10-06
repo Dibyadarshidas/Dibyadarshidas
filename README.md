@@ -2,7 +2,7 @@
 <div align="left">
   <a href="https://twitter.com/dibyadarshi_das">
     <img
-      src="https://img.shields.io/twitter/follow/Dibyadarshi_das?style=social"
+      src="https://img.shields.io/twitter/follow/Dibyadarshi_das?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
       alt="Twitter"
     />
   </a>
@@ -13,12 +13,8 @@
     />
   </a>
 
-  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://raw.githubusercontent.com/omBratteng/omBratteng/devcard/devcard.svg"
-    />
+  <a href="https://app.daily.dev/dibyadarshi">
+    <img src="https://api.daily.dev/devcards/fa3cfcb9d53242c2b60189e8a115efba.png?r=xas" width="400" alt="Dibyadarshi Das's Dev Card"/>
   </a>
 </div>
 
