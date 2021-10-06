@@ -1,5 +1,28 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/dibyadarshi"><img src="https://api.daily.dev/devcards/fa3cfcb9d53242c2b60189e8a115efba.png?r=xas" width="400" alt="Dibyadarshi Das's Dev Card"/></a>
+<div align="left">
+  <a href="https://twitter.com/dibyadarshi_das">
+    <img
+      src="https://img.shields.io/twitter/follow/Dibyadarshi_das?style=social"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/dibyadas/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/omBratteng/omBratteng/devcard/devcard.svg"
+    />
+  </a>
+</div>
+
+<br />
 #### I'm a Front-End Developer working in Cuttack, Odisha.
 
 ##### NOW
