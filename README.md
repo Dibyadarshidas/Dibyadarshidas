@@ -14,7 +14,10 @@
   </a>
 
   <a href="https://app.daily.dev/dibyadarshi">
-    <img src="https://api.daily.dev/devcards/fa3cfcb9d53242c2b60189e8a115efba.png?r=xas" width="400" alt="Dibyadarshi Das's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/fa3cfcb9d53242c2b60189e8a115efba.png?r=xas"
+         width="400"
+         align="right"
+         alt="Dibyadarshi Das's Dev Card"/>
   </a>
 </div>
 
