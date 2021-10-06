@@ -14,9 +14,9 @@
   </a>
 
   <a href="https://app.daily.dev/dibyadarshi">
-    <img src="https://api.daily.dev/devcards/fa3cfcb9d53242c2b60189e8a115efba.png?r=xas"
+    <img src="https://api.daily.dev/devcards/fa3cfcb9d53242c2b60189e8a115efba.png?r=0kl"
          width="300"
-         align="right"
+         align = "right"
          alt="Dibyadarshi Das's Dev Card"/>
   </a>
 </div>
