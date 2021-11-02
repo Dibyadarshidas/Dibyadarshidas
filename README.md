@@ -26,7 +26,7 @@
 
 ##### NOW
 
-- ✨ Crafted last [Umpteens](https://www.umpteens.com) website;
+- ✨ Crafted last [Fanpedia.club](https://www.fanpedia.club) website;
 - 🇵🇹 Planning to learn Next.js;
 - 🍑 Got an idea? I am Game.
 
