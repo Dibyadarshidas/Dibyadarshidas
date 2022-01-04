@@ -38,6 +38,6 @@
 - 🌱 Learning all about **Node.js**
 - 💬 Ping me about **design**, **react**, **development**
 - 📫 Reach me: [twitter.com/dibyadarshi_das](https://twitter.com/dibyadarshi_das)
-- ⚡️ Fun fact: We are living in a simulation. 
+- ⚡️ Fun fact: We live in a simulation. 
 - 🔥 My Spotify Playlist [Go](https://open.spotify.com/playlist/3BxsPBR8eu93oZ3h2nL7kV?si=9444db52fdad44de) [ Play👅](https://open.spotify.com/track/3YZ5NiutSg7KraH87r4fgm?si=2554f67d50fe4a25)
 <!-- - 💅 Designed: [] etc… -->
