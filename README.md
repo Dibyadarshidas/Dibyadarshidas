@@ -13,12 +13,6 @@
     />
   </a>
 
-  <a href="https://app.daily.dev/dibyadarshi">
-    <img src="https://api.daily.dev/devcards/fa3cfcb9d53242c2b60189e8a115efba.png?r=4b2"
-         width="300"
-         align = "right"
-         alt="Dibyadarshi Das's Dev Card"/>
-  </a>
 </div>
 
 <br />
