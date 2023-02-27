@@ -15,6 +15,10 @@
 
 </div>
 
+<div align="right">
+  <a href="https://app.daily.dev/dibyadarshi"><img src="https://api.daily.dev/devcards/fa3cfcb9d53242c2b60189e8a115efba.png?r=y15" width="400" alt="Dibyadarshi Das's Dev Card"/></a>
+</div>
+
 <br />
 #### I'm a Front-End Developer working in Cuttack, Odisha.
 
