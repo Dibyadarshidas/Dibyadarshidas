@@ -12,12 +12,7 @@
       alt="LinkedIn"
     />
   </a>
-<a href="https://app.daily.dev/dibyadarshi">
-  <img src="https://api.daily.dev/devcards/fa3cfcb9d53242c2b60189e8a115efba.png?r=y15" 
-       width="300" 
-       align="right"
-       alt="Dibyadarshi Das's Dev Card"/>
-  </a>
+<a href="https://app.daily.dev/dibyadarshi"><img src="https://api.daily.dev/devcards/v2/1rIoNvoyk.png?r=6kb&type=default" width="356" alt="Dibyadarshi Das's Dev Card"/></a>
 </div>
 
 <br />
